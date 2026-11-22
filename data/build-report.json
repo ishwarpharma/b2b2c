@@ -1,0 +1,153 @@
+{
+  "source": "All Products.csv",
+  "products": 5280,
+  "vendors": 27,
+  "categories": 68,
+  "zero_or_invalid_price": 44,
+  "missing_medicine_description": 11,
+  "vendor_counts": {
+    "Abbott": 162,
+    "Akumentis": 132,
+    "Alkem": 385,
+    "Arco": 12,
+    "Aristo": 189,
+    "Arvincare": 40,
+    "Bionova": 364,
+    "CSC": 417,
+    "Cadila": 141,
+    "Dellwich": 322,
+    "Elder": 880,
+    "Emcure": 38,
+    "Intas": 408,
+    "Jackson": 10,
+    "Kemsyn": 208,
+    "Martin & Brown": 316,
+    "Miracalus": 23,
+    "Naprod": 11,
+    "Nubeno": 23,
+    "Polymed": 20,
+    "Protech": 154,
+    "RPG": 113,
+    "Romson": 92,
+    "Svas": 8,
+    "Theon": 434,
+    "Zuventus": 78,
+    "Zydus": 300
+  },
+  "category_counts": {
+    "Acidity & Heartburn": 183,
+    "Acne Care": 21,
+    "Allergy & Sinus Care": 149,
+    "Anaesthesia Medicines": 4,
+    "Anaesthesia, Muscle Relaxants": 2,
+    "Anemia & Blood Disorder Care": 31,
+    "Anti-Bacterial": 588,
+    "Anti-Fungal": 176,
+    "Anti-Malarial": 20,
+    "Anti-Parasitic": 48,
+    "Anti-Viral": 2,
+    "Asthma & Respiratory Care": 58,
+    "Autoimmune Care": 33,
+    "Baby & Infant Care": 4,
+    "Blood Pressure Care": 149,
+    "Bone Health & Osteoporosis": 20,
+    "Calcium & Vitamin D": 76,
+    "Cholesterol Care": 53,
+    "Constipation Care": 32,
+    "Cough & Cold": 182,
+    "Diabetes Care": 167,
+    "Diagnostic Imaging & Contrast Media": 1,
+    "Diarrhea & Loose Motions": 70,
+    "Eczema Care": 15,
+    "Electrolyte Replacement": 2,
+    "Eye & Ear Care": 62,
+    "Fertility & Reproductive Health": 11,
+    "Fever, Body Pain & Pain Relief": 180,
+    "First Aid & Wound Care": 92,
+    "Gastro & Digestive Care": 149,
+    "Gout Care": 13,
+    "Hair Care": 25,
+    "Headache & Migraine Care": 18,
+    "Heart & Cardiac Care": 123,
+    "Herpes Care": 6,
+    "Hormonal & Endocrine Medicines": 1,
+    "Immunity & Wellness": 6,
+    "Iron & Folic Acid": 42,
+    "Joint & Arthritis Care": 6,
+    "Kidney Care": 10,
+    "Liver Care": 46,
+    "Men's Health": 4,
+    "Menopause Care": 1,
+    "Multivitamins": 94,
+    "Muscle": 5,
+    "Muscle, Joint & Arthritis Care": 217,
+    "Neurological & Epilepsy Care": 168,
+    "Oncology / Cancer Care": 4,
+    "Oral & Dental Care": 23,
+    "Other Medicines": 1335,
+    "Pcos & Hormonal Balance Care": 4,
+    "Piles, Fissures & Hemorrhoids": 8,
+    "Pregnancy & Maternity Care": 17,
+    "Prostate Care": 20,
+    "Protein & Nutrition": 59,
+    "Sexual Health": 18,
+    "Skin Care": 140,
+    "Sleep": 13,
+    "Sleep, Stress & Anxiety Care": 90,
+    "Steroid": 2,
+    "Stress & Anxiety Care": 13,
+    "Sunscreen & Sun Care": 16,
+    "Thyroid Care": 14,
+    "Tuberculosis Care": 2,
+    "Urinary Care": 18,
+    "Vitamins & Supplements": 167,
+    "Weight Management": 12,
+    "Women's Health": 68
+  },
+  "missing_description_products": [
+    {
+      "title": "Bilafirst M Suspension (60 Ml) By Cadila",
+      "vendor": "Cadila"
+    },
+    {
+      "title": "Cadeptin Liquid 200 Ml (200 Ml) By Cadila",
+      "vendor": "Cadila"
+    },
+    {
+      "title": "New Ketodila Soap (1 Pcs) By Cadila",
+      "vendor": "Cadila"
+    },
+    {
+      "title": "Olit Plus Suspn (200 Ml) By Cadila",
+      "vendor": "Cadila"
+    },
+    {
+      "title": "Zycin 100 Ready Mix 30Ml (30 Ml) By Cadila",
+      "vendor": "Cadila"
+    },
+    {
+      "title": "Zycin 200 Ready Mix 30Ml (30 Ml) By Cadila",
+      "vendor": "Cadila"
+    },
+    {
+      "title": "Stretch Lin Cream (6X100Gm) - By Elder",
+      "vendor": "Elder"
+    },
+    {
+      "title": "Intafex-120 Tab (Fexofenadine 120 Mg Tab) By Intas",
+      "vendor": "Intas"
+    },
+    {
+      "title": "Intafex-180 Tab (Fexofenadine 180 Mg Tab) By Intas",
+      "vendor": "Intas"
+    },
+    {
+      "title": "Mecofol 1500 Aq Pfs (Methylcobalamin 1500 Mcg Injection) By Intas",
+      "vendor": "Intas"
+    },
+    {
+      "title": "Dipventin 20Ml (Propofol) by Miracalus",
+      "vendor": "Miracalus"
+    }
+  ]
+}
