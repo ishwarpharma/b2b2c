@@ -1,0 +1,19 @@
+{
+  "vendor_aliases": {
+    "Alkem1": "Alkem",
+    "Aristo1": "Aristo",
+    "Cadila1": "Cadila",
+    "Romson 1": "Romson"
+  },
+  "category_aliases": {
+    "others": "Other Medicines"
+  },
+  "compound_categories": {
+    "JOINT & ARTHRITIS CARE, MUSCLE": ["Muscle, Joint & Arthritis Care"],
+    "BODY PAIN & PAIN RELIEF, FEVER": ["Fever, Body Pain & Pain Relief"],
+    "SLEEP, STRESS & ANXIETY CARE": ["Sleep, Stress & Anxiety Care"],
+    "FISSURES & HEMORRHOIDS, PILES": ["Piles, Fissures & Hemorrhoids"],
+    "ANAESTHESIA, MUSCLE RELAXANTS": ["Anaesthesia, Muscle Relaxants"]
+  },
+  "notes": "Editable mappings. Miracalus and Naprod remain separate. Cadila and Zydus remain separate. Elder vendor value is preserved as supplied."
+}
